@@ -20,7 +20,7 @@ UNet is a fully convolutional network(FCN) that does image segmentation. Its goa
 
 ## Performance
 
-Give a summary graph or metrics of how the model performs. Remember to include how you are measuring the performance and what data you analysed it on. 
+The performance is evaluated by computing IoU betwee ground truth mask and predicted mask.
 
 ## Limitations
 
